@@ -1,7 +1,7 @@
 # backupscript-server
 Backup script to Google Drive for linux servers. Can zip, upload files and execute commands
 
-For complete documentation, please visit : [https://tivbroc.com/backup-script-for-google-drive/](https://gitcommit.fr/backup-script-for-google-drive/)
+For complete documentation, please visit : [https://gitcommit.fr/backup-script-for-google-drive/](https://gitcommit.fr/backup-script-for-google-drive/)
 
 # Configuration
 
